@@ -1,0 +1,22 @@
+{
+  "Einstein": {
+    "1st": "Life is like riding a bicycle. To keep your balance you must keep moving.",
+    "2nd": "Imagination is more important than knowledge."
+  },
+  "Newton": {
+    "1st": "If I have seen further it is by standing on the shoulders of Giants.",
+    "2nd": "What we know is a drop, what we don't know is an ocean."
+  },
+  "Hawking": {
+    "1st": "Intelligence is the ability to adapt to change.",
+    "2nd": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge."
+  },
+  "Sagan": {
+    "1st": "Somewhere, something incredible is waiting to be known.",
+    "2nd": "Extraordinary claims require extraordinary evidence."
+  },
+  "Curie": {
+    "1st": "Nothing in life is to be feared, it is only to be understood.",
+    "2nd": "Be less curious about people and more curious about ideas."
+  }
+}
